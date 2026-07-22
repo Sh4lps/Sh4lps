@@ -4,6 +4,10 @@
 I'm a self-taught cybersecurity enthusiast, constantly learning and improving every day.
 My primary interests are <strong>Web Application Pentesting</strong>, <strong>Reverse Engineering</strong>, and <strong>Low-Level Development</strong> using <strong>C</strong>, <strong>C++</strong>, and <strong>Assembly</strong>.
 
+<h3>Blog</h3>
+
+My blog is currently under construction. I'll be documenting everything I learn and build, including **Web Application Pentesting**, **Reverse Engineering**, and **Programming**.
+
 
 </p>
 <h3> ⭐ Certifications</h3>
