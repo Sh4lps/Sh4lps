@@ -5,7 +5,7 @@ I'm a self-taught cybersecurity enthusiast, constantly learning and improving ev
 My primary interests are <strong>Web Application Pentesting</strong>, <strong>Reverse Engineering</strong>, and <strong>Low-Level Development</strong> using <strong>C</strong>, <strong>C++</strong>, and <strong>Assembly</strong>.
 
 </p>
-<h3> ⭐ Certifications</h3>
+<h3> ⭐ Certifications Por Obtener</h3>
   <code>BSCP</code>
   <code>RTA</code>
 
