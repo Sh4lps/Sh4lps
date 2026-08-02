@@ -7,7 +7,7 @@ My primary interests are <strong>Web Application Pentesting</strong>, <strong>Re
 
 <h3>Blog</h3> 
 <p><a href="https://shl3ps.gitbook.io/0x/" target="_blank">https://shl3ps.gitbook.io/0x/</a></p>
-<p>My blog is currently under construction. I'll be documenting everything I learn and build, including **Web Application Pentesting**, **Reverse Engineering**, and **Programming**.</p>
+<p>My blog is currently under construction. I'll be documenting everything I learn and build, including Web Application Pentesting, Reverse Engineering, and Programming.</p>
 
 
 <p align="left">
