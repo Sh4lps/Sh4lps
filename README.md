@@ -7,7 +7,11 @@ My primary interests are <strong>Web Application Pentesting</strong>, <strong>Re
 
 <h3>Blog</h3> 
 
-<p>My blog is currently under construction. I'll be documenting everything I learn and build, including Web Application Pentesting, Reverse Engineering, and Programming.</p>
+<p>My blog is currently under construction. I'll be documenting everything I learn and build, including Web Application Pentesting, Reverse Engineering, and Programming.
+<a href="https://shleps-nest.gitbook.io/blog/" target="_blank" rel="noopener noreferrer">
+    Visitar Shleps Nest
+</a>
+</p>
 
 
 <p align="left">
