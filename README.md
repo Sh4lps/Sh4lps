@@ -5,15 +5,6 @@ I'm a self-taught cybersecurity enthusiast, constantly learning and improving ev
 My primary interests are <strong>Web Application Pentesting</strong>, <strong>Reverse Engineering</strong>, and <strong>Low-Level Development</strong> using <strong>C</strong>, <strong>C++</strong>, and <strong>Assembly</strong>.
 
 
-<h3>Blog</h3> 
-
-<p>My blog is currently under construction. I'll be documenting everything I learn and build, including Web Application Pentesting, Reverse Engineering, and Programming.
-<a href="https://shleps-nest.gitbook.io/blog/" target="_blank" rel="noopener noreferrer">
-    Visitar Shleps Nest
-</a>
-</p>
-
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" title="C++"/>
