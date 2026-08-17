@@ -1,9 +1,11 @@
-<h3> ☁ About Me</h3>
+<h3>
+  ☁️ About Me
+</h3>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/61/11/69/61116901b34fe154b48e0c56a54d932b.jpg" width="300">
+</p>
 
-<p>
-I'm a self-taught cybersecurity enthusiast, constantly learning and improving every day.
-My primary interests are <strong>Web Application Pentesting</strong>, <strong>Reverse Engineering</strong>, and <strong>Low-Level Development</strong> using <strong>C</strong>, <strong>C++</strong>, and <strong>Assembly</strong>.
-
+<p> Self-taught cybersecurity enthusiast who likes <strong>breaking things just to understand how they work</strong>.<br> Into <strong>Web Pentesting</strong>, <strong>Reverse Engineering</strong>, and <strong>Low-Level Development</strong> with <strong>C</strong>, <strong>C++</strong>, and <strong>Assembly</strong>.<br> Still learning, still breaking stuff, occasionally fixing it. </p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" title="C"/>
