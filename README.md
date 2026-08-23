@@ -2,7 +2,7 @@
   🐦‍⬛ About Me
 </h3>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/61/11/69/61116901b34fe154b48e0c56a54d932b.jpg" width="300">
+  <img src="https://i.programmerhumor.io/2026/03/10d79d8cdbcfcad32a4154150332f0eb853db2c2a412df870b43cc0599d61e5a.png" width="400">
 </p>
 
 <p> Self-taught cybersecurity enthusiast who likes <strong>breaking things just to understand how they work</strong>.<br> Into <strong>Web Pentesting</strong>, <strong>Reverse Engineering</strong>, and <strong>Low-Level Development</strong> with <strong>C</strong>, <strong>C++</strong>, and <strong>Assembly</strong>.<br> Still learning, still breaking stuff, occasionally fixing it. </p>
