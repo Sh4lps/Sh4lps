@@ -8,6 +8,7 @@
 <p> Self-taught cybersecurity enthusiast who likes <strong>breaking things just to understand how they work</strong>.<br> Into <strong>Web Pentesting</strong>, <strong>Reverse Engineering</strong>, and <strong>Low-Level Development</strong> with <strong>C</strong>, <strong>C++</strong>, and <strong>Assembly</strong>.<br> Still learning, still breaking stuff, occasionally fixing it. </p>
 
 <p align="left">
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" width="60" title="Assembly"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" title="Bash"/>
