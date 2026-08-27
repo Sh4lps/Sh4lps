@@ -31,7 +31,7 @@
   <a href="https://x.com/Sh4lps" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://t.me/TU_USUARIO" target="_blank">
+  <a href="https://t.me/Shl3ps" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
