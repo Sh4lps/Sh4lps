@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="" width="700">
-</p>
+
 
 <h3 align="center">
  ⭐ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
@@ -10,6 +8,8 @@
   Cybersecurity enthusiast focused on <strong>Reverse Engineering</strong> and <strong>Web Pentesting</strong>.<br>
 Learning by breaking things down and understanding how they really work.
 </p>
+
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" title="C"/>
