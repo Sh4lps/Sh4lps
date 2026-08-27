@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.programmerhumor.io/2026/03/10d79d8cdbcfcad32a4154150332f0eb853db2c2a412df870b43cc0599d61e5a.png" width="700">
+  <img src="" width="700">
 </p>
 
 <h3 align="center">
