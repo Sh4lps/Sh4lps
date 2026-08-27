@@ -7,9 +7,8 @@
 </h3>
 
 <p align="center">
-  Self-taught cybersecurity enthusiast who enjoys <strong>breaking things to understand how they really work</strong>.<br>
-  Focused on <strong>Reverse Engineering</strong> and <strong>Low-Level Development</strong> with <strong>C</strong>, <strong>C++</strong>, and <strong>Assembly</strong>, with a growing interest in <strong>Web Pentesting</strong>.<br>
-  Always learning, always breaking something — occasionally fixing it too.
+  Cybersecurity enthusiast focused on <strong>Reverse Engineering</strong> and <strong>Web Pentesting</strong>.<br>
+Learning by breaking things down and understanding how they really work.
 </p>
 
 <p align="center">
