@@ -9,6 +9,10 @@
 Learning by breaking things down and understanding how they really work.
 </p>
 
+<p align="center">
+  <img src="https://archive.crow.rip/nest/~gitbook/image?url=https%3A%2F%2F1228221155-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9DPJAb4Evg5zR0jvZIvx%252Fuploads%252FtAil2FD2x0oqcFOHqmmo%252Fimage.png%3Falt%3Dmedia%26token%3D35692a88-3126-4eb1-aba1-c4c4cc77ea97&width=768&dpr=1&quality=100&sign=9f770ab69a4fb3c5e2fcce362b3fa85b&sv=3" width="400">
+</p>
+
 
 
 <p align="center">
