@@ -1,12 +1,11 @@
 
 
 <h3 align="center">
- ⭐ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+ 
  
 
 <p align="center">
-  Cybersecurity enthusiast focused on <strong>Reverse Engineering</strong> and <strong>Web Pentesting</strong>.<br>
-Learning by breaking things down and understanding how they really work
+ 
 </p>
 
 <p align="center">
